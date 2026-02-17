@@ -1,4 +1,6 @@
 # App y web
-<img width="1292" height="711" alt="image" src="https://github.com/user-attachments/assets/5289dd10-59ba-45d1-bcad-328904d0a186" />
+<img width="1310" height="722" alt="image" src="https://github.com/user-attachments/assets/879afab8-ebf4-4054-9e09-ffcffbfd55b5" />
 
-<img width="380" height="663" alt="image" src="https://github.com/user-attachments/assets/54f66b37-58e8-4d0a-8118-290a2b5b4cb9" />
+
+<img width="369" height="661" alt="image" src="https://github.com/user-attachments/assets/fbc3a6a5-669c-41fb-9589-f55b56d02a86" />
+
